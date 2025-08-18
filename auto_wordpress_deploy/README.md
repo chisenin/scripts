@@ -118,7 +118,7 @@ rc-service nginx status
 ## 📁 文件结构
 
 ```
-project/
+auto_wordpress_deploy/
 ├── auto_wordpress_universal.sh    # 通用主部署脚本
 ├── quick_deploy.sh                 # 一键部署脚本
 ├── check_installation.sh           # 安装检查脚本
