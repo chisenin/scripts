@@ -1,4 +1,4 @@
-# 自用/觉得有意思的python脚本
+# 自用/觉得有意思的powershell/python脚本
 ---
 * clean_filenames.py 递归清除整个目录文件名中的指定广告词。
 * rm_duplicate_files.py 递归删除整个目录中重复的文件
