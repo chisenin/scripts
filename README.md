@@ -4,3 +4,4 @@
 * rm_duplicate_files.py 递归删除整个目录中重复的文件
 * rename_pdfs.py 提取pdf中的标题为文件命名
 * convert_offcie_format.py 转换office格式，doc-->docx,xls-->xlsx,ppt-->pptx
+* TS → MP4 批量转换工具（Windows）
